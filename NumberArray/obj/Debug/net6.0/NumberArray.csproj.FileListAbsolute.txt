@@ -1,0 +1,15 @@
+C:\Users\kagaf\source\repos\Week6StringAndArrays\NumberArray\bin\Debug\net6.0\NumberArray.exe
+C:\Users\kagaf\source\repos\Week6StringAndArrays\NumberArray\bin\Debug\net6.0\NumberArray.deps.json
+C:\Users\kagaf\source\repos\Week6StringAndArrays\NumberArray\bin\Debug\net6.0\NumberArray.runtimeconfig.json
+C:\Users\kagaf\source\repos\Week6StringAndArrays\NumberArray\bin\Debug\net6.0\NumberArray.dll
+C:\Users\kagaf\source\repos\Week6StringAndArrays\NumberArray\bin\Debug\net6.0\NumberArray.pdb
+C:\Users\kagaf\source\repos\Week6StringAndArrays\NumberArray\obj\Debug\net6.0\NumberArray.csproj.AssemblyReference.cache
+C:\Users\kagaf\source\repos\Week6StringAndArrays\NumberArray\obj\Debug\net6.0\NumberArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kagaf\source\repos\Week6StringAndArrays\NumberArray\obj\Debug\net6.0\NumberArray.AssemblyInfoInputs.cache
+C:\Users\kagaf\source\repos\Week6StringAndArrays\NumberArray\obj\Debug\net6.0\NumberArray.AssemblyInfo.cs
+C:\Users\kagaf\source\repos\Week6StringAndArrays\NumberArray\obj\Debug\net6.0\NumberArray.csproj.CoreCompileInputs.cache
+C:\Users\kagaf\source\repos\Week6StringAndArrays\NumberArray\obj\Debug\net6.0\NumberArray.dll
+C:\Users\kagaf\source\repos\Week6StringAndArrays\NumberArray\obj\Debug\net6.0\refint\NumberArray.dll
+C:\Users\kagaf\source\repos\Week6StringAndArrays\NumberArray\obj\Debug\net6.0\NumberArray.pdb
+C:\Users\kagaf\source\repos\Week6StringAndArrays\NumberArray\obj\Debug\net6.0\NumberArray.genruntimeconfig.cache
+C:\Users\kagaf\source\repos\Week6StringAndArrays\NumberArray\obj\Debug\net6.0\ref\NumberArray.dll
